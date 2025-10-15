@@ -43,7 +43,9 @@ Your challenge is to design an onboarding experience that feels effortless, pers
 
 ### **Learning Resources:**
 
-* 📘 **PDF Resource:** [Designing for the Invisible: UX Patterns that Disappear](https://uxdesign.cc/designing-for-the-invisible-ux-patterns-that-disappear-21b6a6c0b2b8)
+* 📘 **PDF Resource:** [User Onboarding Handbook:
+Craft Exceptional Flows from
+Concept to Launch](https://www.chameleon.io/assets/user-onboarding-handbook.pdf)
 * 🎥 **Video Resource:** [Designing Seamless Onboarding Experiences](https://www.youtube.com/watch?v=0WQbE1z6M9E)
 
 ---
