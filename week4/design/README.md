@@ -46,7 +46,7 @@ Your challenge is to design an onboarding experience that feels effortless, pers
 * 📘 **PDF Resource:** [User Onboarding Handbook:
 Craft Exceptional Flows from
 Concept to Launch](https://www.chameleon.io/assets/user-onboarding-handbook.pdf)
-* 🎥 **Video Resource:** [Designing Seamless Onboarding Experiences](https://www.youtube.com/watch?v=0WQbE1z6M9E)
+* 🎥 **Video Resource:** [User Onboarding Best Practices That Actually Work (Notion Case Study)](https://youtu.be/Ug_EMizZaGk?si=A_iWbah9iZLihi_M)
 
 ---
 
