@@ -1,4 +1,4 @@
-# Software Engineering Weekl 6 Challenge
+# Software Engineering Week 6 Challenge
 
 ## Challenge Title
 
