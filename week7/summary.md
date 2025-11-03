@@ -1,43 +1,44 @@
-# Weekly Career Growth Challenges Summary
+# Weekly Challenges Summary — Test Strategy & Trust UX Series
 
 ### Overview
 
-This document summarizes the three parallel challenges for **Software Engineering**, **AI/ML Engineering**, and **Product Design** professionals. Each challenge is designed for participants with **1–2 years of experience**, running for one week. The challenges simulate **real-world project experiences** that develop technical and creative competencies while maintaining manageable weekly scope.
+This summary outlines the **Week 3 Challenges** for participants across three disciplines: **Software Engineering**, **AI/ML Engineering**, and **Product Design**. These challenges are designed to build practical expertise in testing strategies, reliability, privacy, and user trust — bridging technical precision with human-centered design.
+
+Each challenge targets professionals with **1–2 years of experience**, introducing a moderate increase in complexity while maintaining a one-week engagement timeline.
 
 ---
 
 ## 🧱 Software Engineering Challenge
 
-**Topic:** Database Modeling for Complex Entities
-**Company Context:** PulseTrack – a comprehensive health monitoring platform.
+**Topic:** Test Strategy — Coverage + Confidence
+**Company Context:** CodePilot — internal developer platform for automation testing and deployment.
 
 ### Objective
 
-Design and implement a **robust database schema** and CRUD APIs for a multi-entity health tracking application using **Node.js** (Express) and **React-Vite**.
+Design and implement a **comprehensive test strategy** that ensures high **coverage** and **confidence** for a Node.js backend system. Participants will apply best practices in **unit**, **integration**, and **end-to-end testing**, ensuring regressions are caught early and reliably.
 
 ### Key Deliverables
 
-* **Backend:** Node.js (Express) with ORM (Sequelize/Prisma) and PostgreSQL/MySQL.
-* **Frontend:** React-Vite interface for CRUD operations.
-* **API Documentation:** Postman (JSON or public link).
-* **Repositories:** Two private GitHub repos (`pulsetrack-backend`, `pulsetrack-frontend`).
-* Invite **@braveredemptive** for access.
+* Node.js (Express) backend with modular architecture.
+* Tests using Jest, Mocha, or Supertest.
+* Coverage reports (minimum 80%).
+* GitHub Actions CI pipeline for automated tests.
+* Postman API documentation.
 
 ### Learning Resources
 
-* 📘 [Database Design for Mere Mortals (PDF)](https://www.db-book.com/db6/slides-dir/ch2.pdf)
-* 🎥 [Database Design Tutorial (YouTube)](https://www.youtube.com/watch?v=ztHopE5Wnpc)
+* 📘 [Testing JavaScript Applications (Excerpt by Lucas da Costa)](https://testingjavascript.com/resources/testing-javascript-book.pdf)
+* 🎥 [Testing Strategies and Confidence in Code — Kent C. Dodds](https://www.youtube.com/watch?v=Fha2bVoC8SE)
 
 ### Rubrics (100%)
 
-| Criteria                     | Weight |
-| :--------------------------- | :----- |
-| Database Design Completeness | 25%    |
-| Code Quality & Structure     | 20%    |
-| API Functionality            | 20%    |
-| Frontend Integration         | 15%    |
-| Postman Documentation        | 10%    |
-| Git & Documentation          | 10%    |
+| Criteria                    | Weight |
+| :-------------------------- | :----- |
+| Test Coverage               | 25%    |
+| Test Confidence & Depth     | 25%    |
+| Code Quality & Organization | 20%    |
+| Automation & CI/CD          | 15%    |
+| Documentation & Clarity     | 15%    |
 
 ### Submission
 
@@ -49,36 +50,36 @@ Design and implement a **robust database schema** and CRUD APIs for a multi-enti
 
 ## 🤖 AI/ML Engineering Challenge
 
-**Topic:** Database Modeling for Complex Entities in AI-Driven Health Data Systems
-**Company Context:** PulseTrack AI – AI-powered health insights platform.
+**Topic:** Test Strategy — Coverage + Confidence in Machine Learning Pipelines
+**Company Context:** CodePilot AI — predictive analytics company ensuring reliability across ML systems.
 
 ### Objective
 
-Design the **data architecture** and implement **data ingestion, preprocessing, and APIs** to support AI models using **Python (FastAPI/Flask)** and **PostgreSQL**.
+Design a **testing strategy** for machine learning pipelines to improve reliability, reproducibility, and trust. Participants will implement tests for preprocessing, model performance, and inference APIs, focusing on coverage and confidence in end-to-end reliability.
 
 ### Key Deliverables
 
-* **Backend:** FastAPI/Flask app with CRUD endpoints and ORM models.
-* **AI/ML Repo:** Scripts for data ingestion and preprocessing (Pandas, NumPy, Matplotlib).
-* **Documentation:** Postman API docs + README.
-* **Repositories:** Two private GitHub repos (`pulseai-backend`, `pulseai-ml`).
-* Invite **@braveredemptive** for access.
+* ML pipeline repository (Python, scikit-learn or TensorFlow).
+* FastAPI/Flask API exposing prediction endpoints.
+* Unit, integration, and functional tests using Pytest.
+* Mocking for data and models.
+* Test coverage reports (minimum 85%).
+* GitHub Actions CI automation.
 
 ### Learning Resources
 
-* 📘 [Designing Data-Intensive Applications (Excerpt)](https://dataintensive.net/pdf/DesigningDataIntensiveApplications.pdf)
-* 🎥 [Database Design for Machine Learning (YouTube)](https://www.youtube.com/watch?v=QpdhBUYk7Kk)
+* 📘 [Practical Testing for Data Science and Machine Learning Systems (O’Reilly Excerpt)](https://learning.oreilly.com/library/view/testing-in-data/9781098129336/)
+* 🎥 [Testing and Monitoring Machine Learning Systems — Made With ML](https://www.youtube.com/watch?v=fKhbD6Y5Eo8)
 
 ### Rubrics (100%)
 
-| Criteria                     | Weight |
-| :--------------------------- | :----- |
-| Database Modeling            | 25%    |
-| Code Quality                 | 20%    |
-| API Functionality            | 15%    |
-| Data Pipeline Implementation | 20%    |
-| Documentation                | 10%    |
-| Version Control Practices    | 10%    |
+| Criteria                    | Weight |
+| :-------------------------- | :----- |
+| Test Coverage               | 25%    |
+| Test Confidence & Relevance | 25%    |
+| Code Quality & Structure    | 20%    |
+| CI/CD & Automation          | 15%    |
+| Documentation & Clarity     | 15%    |
 
 ### Submission
 
@@ -90,58 +91,39 @@ Design the **data architecture** and implement **data ingestion, preprocessing, 
 
 ## 🎨 Product Design Challenge
 
-**Topic:** Behavioral Loops and Habit-Building UX
-**Company Context:** PulseTrack – digital wellness startup focused on habit-forming user experiences.
+**Topic:** Privacy + Trust UX — Designing for Transparency and User Confidence
+**Company Context:** CodePilot Design — fintech app emphasizing user data transparency and security.
 
 ### Objective
 
-Design a **mobile experience** that utilizes **behavioral loops** (cue → action → reward → investment) to build and sustain daily user habits such as hydration tracking, meditation, or exercise.
+Design user experiences that promote **trust**, **privacy**, and **transparency**. Participants will create screens that empower users to understand and control their data, reinforcing credibility through tone, design, and ethical interaction patterns.
 
 ### Key Deliverables
 
-* **Design Prototype:** Figma, Sketch, or Framer (accessible link).
-* **Documentation (Google Doc):**
+* Figma / Sketch / Framer prototype link (accessible).
+* Google Doc explaining design decisions and rationale.
+* Three designed flows:
 
-  * Target behavior and user persona.
-  * Behavioral loop mapping.
-  * Annotated screens with rationale.
-  * Design justification.
+  1. Onboarding Privacy Consent Flow.
+  2. Data Control Center.
+  3. Sensitive Action Confirmation Flow.
+* Privacy microcopy and tone documentation.
 
 ### Learning Resources
 
-* 📘 [Hooked: How to Build Habit-Forming Products (Excerpt)](https://www.nirandfar.com/hooked/)
-* 🎥 [The Psychology of Habit-Forming Products (YouTube)](https://www.youtube.com/watch?v=arF-C8nY2qc)
+* 📘 [Designing for Trust: UX Principles for Transparency and Privacy (UX Planet)](https://uxplanet.org/designing-for-trust-ux-principles-for-transparency-and-privacy-86b4a9dbba1f)
+* 🎥 [Designing for Trust and Transparency — Google Design](https://www.youtube.com/watch?v=q6B9sHkaLFo)
 
 ### Rubrics (100%)
 
 | Criteria                          | Weight |
 | :-------------------------------- | :----- |
-| Understanding of Behavioral Loops | 25%    |
-| User Flow & Experience            | 25%    |
-| Visual Design & Consistency       | 20%    |
-| Documentation & Rationale         | 15%    |
-| Prototype Quality                 | 15%    |
+| Privacy Awareness in UX           | 25%    |
+| Trust-Building Design Patterns    | 25%    |
+| Microcopy & Communication         | 20%    |
+| Visual & Interaction Design       | 15%    |
+| Documentation & Ethical Rationale | 15%    |
 
 ### Submission
 
-* Log submission here → [Submission Log Sheet](https://docs.google.com/spreadsheets/d/131My2Yo2ekHu9KR9v0-NOfFENDiNm8rT0UEXBhUrkbc/edit?usp=drivesdk)
-* **Deadline:** Friday, 11:59 PM
-* **Late submissions will not be reviewed.**
-
----
-
-## 🗓️ Challenge Duration
-
-All challenges run concurrently for **1 week (Monday – Friday)**.
-
----
-
-### 🧩 Key Notes
-
-* These challenges are designed to simulate **cross-functional collaboration** between developers, ML engineers, and designers.
-* Focus on **clarity, documentation, and completeness** rather than over-engineering.
-* All participants must log submissions in the shared Google Sheet before the deadline.
-
----
-
-**End of Summary Document**
+* Log submission here → [Submission Log Sheet](https://docs.google.com/spreadsheets/d/131My2Yo2ekHu9KR9v0-NOfFENDiNm8rT0UEXBhUrkbc/edit)
