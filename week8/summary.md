@@ -2,7 +2,7 @@
 
 ### Overview
 
-This document summarizes the **Week 4 Challenges** for **Software Engineering**, **AI/ML Engineering**, and **Product Design** participants. This week’s focus combines **technical excellence** (through CI/CD and observability) with **ethical product thinking**, fostering engineers and designers who build systems that are not only reliable but also responsible.
+This document summarizes the **Week 8 Challenges** for **Software Engineering**, **AI/ML Engineering**, and **Product Design** participants. This week’s focus combines **technical excellence** (through CI/CD and observability) with **ethical product thinking**, fostering engineers and designers who build systems that are not only reliable but also responsible.
 
 Each challenge targets professionals with **1–2 years of experience**, offering increased complexity through the integration of automation, monitoring, and ethical frameworks.
 
