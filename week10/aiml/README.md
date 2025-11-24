@@ -98,11 +98,22 @@ You are required to:
 
 ## Learning Resources
 
-**📘 PDF Resource:**
-[Google Engineering Practices – Code Review Guidelines (PDF)](https://google.github.io/eng-practices/review/reviewer/)
+## 📄 PDF / Article Resources
 
-**🎥 Video Resource:**
-[Effective Collaboration for Data Science & ML Engineers (YouTube)](https://www.youtube.com/watch?v=O5x-utbpeBI)
+1. [Collaborative, Open, and Automated Data Science (PDF)](https://dai.lids.mit.edu/wp-content/uploads/2021/09/Smith-2021-Collaborative-Open-and-Automated-Data-Science.pdf)
+2. [Collaboration Challenges in Building ML-Enabled Systems: Communication, Documentation, Engineering, and Process (PDF)](https://www.cs.cmu.edu/~ckaestne/pdf/icse22_seai.pdf)
+3. [Towards Effective Collaboration between Software Engineers and Data Scientists Developing Machine Learning-Enabled Systems (PDF)](https://arxiv.org/abs/2407.15821)
+4. [How to Build an Effective Data Science Team That Delivers Business Value (PDF)](https://f.hubspotusercontent40.net/hubfs/6347197/Whitepaper_How%20To%20Build%20an%20Effective%20Data%20Science%20Team%20That%20Delivers%20Business%20Value.pdf)
+
+--- 
+
+## 🎥 Video / Tutorial Resources
+
+1. [How do Data Science Workers Collaborate? Roles, Workflows, and Tools (YouTube)](https://www.youtube.com/watch?v=j6gbbWfkO-o)  
+2. [How Can MLOps Help Teams Work Together On ML Models? (YouTube)](https://www.youtube.com/watch?v=4nt-8AMKej4)  
+3. [Data Science Meets Engineering: A Customer-Centric Collaboration (YouTube)](https://www.youtube.com/watch?v=KSxfV6aivQc)  
+4. [Stream of Teams, Episode 2 | Team Topologies for AI/ML (YouTube)](https://www.youtube.com/watch?v=B0IBSUfvdjs)  
+
 
 ---
 

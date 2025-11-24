@@ -64,11 +64,23 @@ You are required to:
 
 ## Learning Resources
 
-**📘 PDF Resource:**
-[Design Decision Framework — Nielsen Norman Group](https://www.nngroup.com/articles/design-principles-guidelines/)
+## 📄 PDF / Article Resources
 
-**🎥 Video Resource:**
-[How to Present Your Design Decisions — AJ&Smart](https://www.youtube.com/watch?v=_J2rm9ZpeGs)
+1. [Crafting Product-Specific Design Principles to Support Better Decision Making – Nielsen Norman Group](https://www.nngroup.com/articles/design-principles/)
+2. [Design Decision Framework – How to Choose Right Design Alternatives (Medium)](https://medium.com/design-bootcamp/design-decision-framework-how-to-choose-right-design-alternatives-301ac50e67c3)
+3. [A Framework to Make Great Design Decisions – UXDesign.cc](https://uxdesign.cc/a-framework-to-make-great-design-decisions-ce4a366bf3e1)
+4. [How Do Designers Make User-Experience Design Decisions? (PDF)](https://www.researchgate.net/publication/342839327_How_Do_Designers_Make_User-Experience_Design_Decisions)
+
+---
+
+## 🎥 Video / Tutorial Resources (YouTube)
+
+1. [How I Make Design Decision](https://www.youtube.com/watch?v=DAVOtUC7ZB8)
+2. [How to Make Design Decisions](https://www.youtube.com/watch?v=2PdvXZ6xsUw)
+3. [How to Successfully Defend Design Decisions](https://www.youtube.com/watch?v=8WwmFNJOW1I)
+4. [Codifying Design Decisions - Garth Braithwaite](https://www.youtube.com/watch?v=KmIh96ABSiE)
+5. [Articulating Design Decisions - Tom Greever](https://www.youtube.com/watch?v=99e6d2purlo)
+
 
 ---
 

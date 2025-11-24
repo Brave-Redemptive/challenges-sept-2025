@@ -93,11 +93,20 @@ You are required to:
 
 ## Learning Resources
 
-**📘 PDF Resource:**
-[Google Engineering Practices — Code Review Guidelines (PDF)](https://google.github.io/eng-practices/review/reviewer/)
+## 📄 PDF / Article Resources
 
-**🎥 Video Resource:**
-[How to Collaborate Effectively on GitHub (GitHub Universe Talk)](https://www.youtube.com/watch?v=HwgYqF9gXSM)
+1. [Collaborating On A GitHub Project – A Complete Guide (PDF)](https://www.scribd.com/document/852559169/Collaborating-on-a-GitHub-Project-A-Complete-Guide)
+2. [Collaborative Software Development with GitHub® Projects (PDF)](https://www.researchgate.net/publication/330162832_Collaborative_Software_Development_with_GitHubR_Projects)
+3. [Introducing GitHub: A Non-Technical Guide (PDF)](https://staff.ces.funai.edu.ng/primo-explore/scholarship/fetch.php/Introducing_Github_A_Non_Technical_Guide.pdf)
+4. [A Guide to Git and GitHub for Effective Team Collaboration (Article)](https://mohamed-elrefaey-77102.medium.com/a-guide-to-git-and-github-for-effective-team-collaboration-9bc261aba545)
+
+--- 
+
+## 🎥 Video / Tutorial Resources
+
+1. [Git & GitHub Tutorial for Beginners #11 – Collaborating on … (YouTube)](https://www.youtube.com/watch?v=MnUd31TvBoU)
+2. [Using GitHub for Team Collaboration | GitHub Tutorial Part 1 (YouTube)](https://www.youtube.com/watch?v=4nyIS58ORWw)
+3. [Collaborative Git Best Practices for DevOps and Development Teams (YouTube Webinar)](https://www.youtube.com/watch?v=ULvBn33Gaz0)
 
 ---
 
