@@ -83,7 +83,6 @@ You are required to:
 2. [What Is Product Strategy? – Overview Video (YouTube)](https://www.youtube.com/watch?v=ebwo_BX_VtU)
 3. [Product Strategy for Designers – Course Overview (Maven)](https://www.femke.design/course)
 
-
 ---
 
 ## Submission Guidelines
