@@ -1,0 +1,99 @@
+{
+  "info": {
+    "name": "LegacyBridge API",
+    "_postman_id": "12345678-abcd-efgh-ijkl-123456789000",
+    "description": "API Documentation for LegacyBridge Backend\n\nIncludes:\n- v1 Customers (raw legacy data)\n- v2 Customers (transformed & cached)\n- Health Check",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Health Check",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{base_url}}/health",
+          "host": ["{{base_url}}"],
+          "path": ["health"]
+        },
+        "description": "Returns basic health status of the API"
+      },
+      "response": [
+        {
+          "name": "200 OK",
+          "originalRequest": {
+            "method": "GET",
+            "url": "{{base_url}}/health"
+          },
+          "status": "OK",
+          "code": 200,
+          "body": "{\n  \"status\": \"ok\",\n  \"uptime\": 123.45\n}"
+        }
+      ]
+    },
+    {
+      "name": "V1 - Customers (Legacy Raw)",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{base_url}}/v1/customers",
+          "host": ["{{base_url}}"],
+          "path": ["v1", "customers"]
+        },
+        "description": "Fetch raw users directly from the legacy API source without transformation."
+      },
+      "response": [
+        {
+          "name": "200 Raw Legacy Data",
+          "originalRequest": {
+            "method": "GET",
+            "url": "{{base_url}}/v1/customers"
+          },
+          "status": "OK",
+          "code": 200,
+          "body": "[\n  {\n    \"id\": 1,\n    \"name\": \"Leanne Graham\",\n    \"username\": \"Bret\",\n    \"email\": \"Sincere@april.biz\",\n    \"phone\": \"1-770-736-8031\"\n  }\n]"
+        }
+      ]
+    },
+    {
+      "name": "V2 - Customers (Transformed & Cached)",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{base_url}}/v2/customers",
+          "host": ["{{base_url}}"],
+          "path": ["v2", "customers"]
+        },
+        "description": "Fetch transformed customer data with caching layer.\nThis returns ModernCustomer objects."
+      },
+      "response": [
+        {
+          "name": "200 Transformed Customers",
+          "originalRequest": {
+            "method": "GET",
+            "url": "{{base_url}}/v2/customers"
+          },
+          "status": "OK",
+          "code": 200,
+          "body": "[\n  {\n    \"customerId\": \"1\",\n    \"fullName\": \"Leanne Graham\",\n    \"username\": \"Bret\",\n    \"contact\": {\n      \"email\": \"Sincere@april.biz\",\n      \"phone\": \"1-770-736-8031\"\n    }\n  }\n]"
+        }
+      ]
+    }
+  ],
+  "variable": [
+    {
+      "key": "base_url",
+      "value": "http://localhost:{{PORT}}"
+    },
+    {
+      "key": "PORT",
+      "value": "5000"
+    },
+    {
+      "key": "LEGACY_BASE_URL",
+      "value": "https://jsonplaceholder.typicode.com"
+    }
+  ]
+}
