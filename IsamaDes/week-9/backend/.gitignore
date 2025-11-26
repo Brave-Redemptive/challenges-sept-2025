@@ -1,0 +1,14 @@
+
+.env
+
+node_modules/
+
+build/
+
+coverage/
+
+jest-output/
+
+.nyc_output/
+
+logs/
