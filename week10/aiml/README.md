@@ -119,8 +119,6 @@ You are required to:
 
 ## Submission Guidelines
 
-## Submission Guidelines
-
 1. Ensure both repositories (**backend and frontend**) are **private**.
 2. Fork the submission repository at [Fundamentals Cohort1 Submissions](https://github.com/Brave-Redemptive/fundamentals-cohort1-submissions)
 3. Clone the repo from the forked version on your account to your PC.

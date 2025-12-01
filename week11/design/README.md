@@ -41,12 +41,28 @@ This challenge emphasizes **decision-making under uncertainty**, which is a crit
 
 ## Learning Resources
 
-* **PDF:** [IDEO Trade-off Decisions PDF](https://www.designkit.org/resources/1)
-* **Video:** [YouTube – Navigating Product Trade-offs](https://www.youtube.com/watch?v=GkXjH2Hk1q4)
+## 📄 PDF / Article
+
+1. [Design Requires Tradeoffs — 10 Intangibles of Design (UX Magazine)](https://uxmag.com/articles/10-intangibles-of-design)
+2. [Trade-offs in Product Design: How Game Theory Shapes Real Product Process (Medium)](https://medium.com/@uxraspberry/trade-offs-in-product-design-how-game-theory-shapes-real-product-process-e9e5ad1437e7)
+3. [Design Tradeoffs — Rockturn (Design Tradeoffs Overview)](https://www.rockturn.com/topic/design-tradeoffs/)
+4. [Making Product Development Trade-offs: Design for Compliance, Cost & Sustainability (PDF) – Tech-Clarity Perspective](https://tech-clarity.com/documents/Tech-Clarity_Perspective_PD_Tradeoffs.pdf)
+5. [Product Design Choices — Chapter on Trade-offs Between Functionality, Design and Ergonomics (SpringerLink)](https://link.springer.com/chapter/10.1007/978-3-030-65287-6_16)
+
+---
+
+## 🎥 Videos
+
+1. [Making Trade-off Decisions — Talk on balancing product decisions (Mind the Product)](https://www.mindtheproduct.com/video-making-trade-off-decisions/)
+2. [Navigating Trade-offs and Priorities — UXcel Lesson for Designers & Product Teams](https://app.uxcel.com/courses/cross-functional-teams/navigating-trade-offs-and-priorities-246)
+3. [Decision-Making and Trade-Offs — UXcel Product Management / Design Course](https://app.uxcel.com/courses/intro-product-management/decision-making-and-trade-offs-408)
+4. [A devilish approach to trade-offs — Podcast & talk on trade-offs in product design / management (Mind the Product)](https://www.mindtheproduct.com/a-devilish-approach-to-trade-offs-lucy-spence-on-the-product-experience-part-2-of-2)
+
 
 ## Submission Guidelines
 
-* Submit as a **Google Doc** with your name and challenge title.
-* Include **all diagrams or mockups** either embedded or linked.
-* Share a **view-only link** with the challenge coordinator.
-* Ensure your document is **well-structured and easy to follow**.
+1. Submit your **Figma/Sketch/Framer link** and **Google Doc** (ensure view/comment access).
+2. Log your submission details (design links) in this document:
+   👉 [Submission Log Spreadsheet](https://docs.google.com/spreadsheets/d/131My2Yo2ekHu9KR9v0-NOfFENDiNm8rT0UEXBhUrkbc/edit?usp=drivesdk)
+3. Deadline for submission is **Friday, 11:59 PM**.
+4. Submissions are due by the end of the week. **Late submissions will not be reviewed.**

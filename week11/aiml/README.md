@@ -98,27 +98,40 @@ This challenge simulates real-world ML engineering conditions where trade-offs m
 
 ## **Resources**
 
-### **PDF Resource:**
+## 📄 PDF / Article
 
-**Designing Machine Learning Systems – Trade-Offs in ML Engineering (Excerpt)**
-[https://ai.google/static/documents/machine-learning-design.pdf](https://ai.google/static/documents/machine-learning-design.pdf)
+1. [4 Key Design Tradeoffs of Machine Learning Systems (Medium)](https://medium.com/@meta_heuristic/4-key-design-tradeoffs-of-machine-learning-systems-73757890a629)
+2. [Scalability and Maintainability Challenges in Machine Learning: Systematic Literature Review (arXiv)](https://arxiv.org/abs/2504.11079)
+3. [On Misbehaviour and Fault Tolerance in Machine Learning Systems (arXiv)](https://arxiv.org/abs/2109.07989)
+4. [Machine Learning Systems Design — Public Lecture Notes / Intro PDF](https://sharifmlsd.github.io/assets/MLSD_2023_chap_01_lec_01.pdf)
+5. [Resource Usage and Performance Trade‑offs for Machine Learning Models (Sensors Journal)](https://www.mdpi.com/1424-8220/20/4/1176)
+6. [Designing Machine Learning Systems — GitHub companion repo by Chip Huyen](https://github.com/chiphuyen/dmls-book)
 
-### **Video Resource:**
+---
 
-**Real-World ML System Design – Trade-offs Explained (YouTube)**
-[https://www.youtube.com/watch?v=06-AZXmwHjo](https://www.youtube.com/watch?v=06-AZXmwHjo)
+## 🎥 Video / Tutorial
+
+1. [Meta ML System Design: The Complete Guide](https://www.systemdesignhandbook.com/guides/meta-ml-system-design-interview/)
+2. [ML System Design & Scalability Considerations – Sanfoundry](https://www.sanfoundry.com/ml-system-design-scalability-considerations/)
+3. [Machine Learning Systems Design — Course on MadeWithML / Anyscale](https://madewithml.com/courses/mlops/systems-design/)
+
 
 ---
 
 ## **Submission Guidelines**
 
-1. Repository must be **private**.
-2. Invite **@braveredemptive** to the repository.
-3. If you create an inference API, it must be in a **separate private repo**.
-4. Include Postman documentation (if applicable).
-5. Log your submission here:
-   👉 [https://docs.google.com/spreadsheets/d/131My2Yo2ekHu9KR9v0-NOfFENDiNm8rT0UEXBhUrkbc/edit?usp=drivesdk](https://docs.google.com/spreadsheets/d/131My2Yo2ekHu9KR9v0-NOfFENDiNm8rT0UEXBhUrkbc/edit?usp=drivesdk)
-6. **Deadline:** Friday, 11:59 PM
-7. **Late submissions will not be reviewed.**
+1. Ensure both repositories (**backend and frontend**) are **private**.
+2. Fork the submission repository at [Fundamentals Cohort1 Submissions](https://github.com/Brave-Redemptive/fundamentals-cohort1-submissions)
+3. Clone the repo from the forked version on your account to your PC.
+4. Add the original repo as a second upstream to easily pull updates.
+5. Create a folder with your GitHub username.
+6. Create a subfolder inside the folder you created above and name it 'week7'.
+7. In this folder, you'll have two folders named backend, and frontend.
+8. After you've made your modifications, then push to your online version.
+9. Finally, make a pull request to the main fundamentals account.
+10. Note that some of the steps will only be done once.
+10. Watch [This Video](https://www.youtube.com/watch?v=rxh6MhK6Tbs) to be up to speed on the submission workflow.
+4. Deadline for submission is **Friday, 11:59 PM**.
+5. Submissions are due by the end of the week. **Late submissions will not be reviewed.**
 
 ---
