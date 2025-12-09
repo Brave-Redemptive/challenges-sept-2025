@@ -72,13 +72,23 @@ The challenge simulates a real-world system design + defense session like those 
 
 ## Learning Resources
 
-### PDF
+## 📄 PDF / Book Resources
 
-* "Designing Distributed Systems" by Brendan Burns (Free excerpt PDF): [https://github.com/cloudfoundry/uaa/raw/develop/docs/designing-distributed-systems.pdf](https://github.com/cloudfoundry/uaa/raw/develop/docs/designing-distributed-systems.pdf)
+1. [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services – eBook (O’Reilly / OverDrive)](https://www.overdrive.com/media/3860126/designing-distributed-systems)
+2. [Designing Distributed Systems – 2nd Edition (O’Reilly / OverDrive)](https://www.overdrive.com/media/11413820/designing-distributed-systems)
+3. [Designing Distributed Systems (PDF) – FreeComputerBooks](https://freecomputerbooks.com/Designing-Distributed-Systems-Patterns-and-Paradigms-for-Scalable-Reliable%20Services.html)
+4. [Distributed Systems Tutorial – GeeksforGeeks](https://www.geeksforgeeks.org/distributed-systems/distributed-systems-tutorial/)
+5. [A Compendium on Distributed Systems (2023) – arXiv](https://arxiv.org/abs/2302.03990)
 
-### Video
+--- 
 
-* "System Design Basics for Beginners (Queues, Load Balancing, Scaling)" – Gaurav Sen: [https://www.youtube.com/watch?v=UzLMhqg3_Wc](https://www.youtube.com/watch?v=UzLMhqg3_Wc)
+## 🎥 Video / Tutorial / Course Resources
+
+1. [Understanding Distributed Architectures – The Patterns Approach (YouTube / ClassCentral)](https://www.classcentral.com/course/youtube-understanding-distributed-architectures-the-patterns-approach-unmesh-joshi-yow-2024-440574)
+2. [Distributed Systems Lecture Series – Online Video Tutorials](https://getvm.io/tutorials/distributed-systems-lecture-series)
+3. [Distributed Systems for Data Engineering – YouTube Talk](https://www.classcentral.com/course/youtube-distributed-system-design-for-data-engineering-149001)
+4. [System Design Deep Dive: Real-World Distributed Systems – Paid Course](https://www.udemy.com/course/system-design-deep-dive-real-world-distributed-systems/)
+
 
 ---
 

@@ -62,15 +62,24 @@ Beyond redesigning, you must provide a **Strategic Defense** documenting *why* y
    * Strategic Defense section
 3. **Optional:** A short Loom video walking through your design.
 
-## Relevant Learning Links
+## Learning Resources
 
-### PDF (required)
+## 📄 Article
 
-* *Universal Principles of Design* (Sample Chapter PDF): [https://d1wqtxts1xzle7.cloudfront.net/37042211/Universal_Principles_of_Design-libre.pdf](https://d1wqtxts1xzle7.cloudfront.net/37042211/Universal_Principles_of_Design-libre.pdf)
+1. [Universal Principles of Design – OverDrive Entry (ebook)](https://www.overdrive.com/media/336751/universal-principles-of-design)
+2. [Universal Principles of Design – Open Library Page](https://openlibrary.org/books/OL8867343M/Universal_Principles_of_Design)
+3. [Universal Principles of Design — HTML/PDF Download (Xenotheka Mirror)](https://xenotheka.delbeke.arch.ethz.ch/holden-universal-principles-of-design/)
+4. [Universal Principles of Design, Revised and Updated (PDF Listing)](https://welib.org/md5/a6cd0240119364d4298bd9825a48a768)
 
-### Video (required)
+---
 
-* *Designing Better User Onboarding — UX Case Study Walkthrough*: [https://www.youtube.com/watch?v=1B0xOYoWgk8](https://www.youtube.com/watch?v=1B0xOYoWgk8)
+## Related Design Principles & Universal Design Resources
+
+1. [Universal Design Principles – Centre for Excellence in Universal Design](https://universaldesign.ie/about-universal-design/the-7-principles)
+2. [Universal Design – Berkeley UDL](https://udl.berkeley.edu/universal-design)
+3. [Universal Design Guide](https://universaldesignguide.com/universal-design/)
+4. [Four Principles Fundamental to Design Practice for Human-Centred Systems (arXiv)](https://arxiv.org/abs/cs/0409041)
+
 
 ## Submission Guidelines
 

@@ -68,15 +68,13 @@ This challenge focuses on ML system design, data pipelines, model training, mode
 
 ## Learning Resources
 
-### PDF
+* Designing Machine Learning Systems (O’Reilly Book Page) — [https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
+* Machine Learning System Design Cheatsheet — [https://huyenchip.com/ml-interviews-book/](https://huyenchip.com/ml-interviews-book/)
 
-* *Designing Machine Learning Systems* — Chip Huyen (O'Reilly). PDF excerpt / copy for reference: [https://18636251.s21i.faiusr.com/61/ABUIABA9GAAghIK0ugYowM2h3QY.pdf](https://18636251.s21i.faiusr.com/61/ABUIABA9GAAghIK0ugYowM2h3QY.pdf). 
-* *Building Machine Learning Powered Applications* — Emmanuel Ameisen (sample chapter PDF): [https://www.mlpowered.com/pdf/BMLPA_Chapter_1.pdf](https://www.mlpowered.com/pdf/BMLPA_Chapter_1.pdf)
+## Video Resources
 
-### Video
+* Designing Machine Learning Systems (Chip Huyen Talk) — [https://www.youtube.com/watch?v=06-AZXmwHjo](https://www.youtube.com/watch?v=06-AZXmwHjo)
 
-* *What Is Machine Learning System Design?* — YouTube (intro video on ML system design).
-* *Machine Learning Engineering for Production (MLOps) — YouTube* (practical production considerations).
 
 ## Submission Guidelines
 
